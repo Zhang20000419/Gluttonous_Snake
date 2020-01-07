@@ -1,0 +1,29 @@
+﻿  源.cpp
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(194,17): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(332,37): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(333,42): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(349,37): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(350,42): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(373,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(374,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(504,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(504,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(505,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(505,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(672,19): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(729,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(730,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(852,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1089,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1092,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1096,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1100,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1106,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\lenovo\Desktop\七彩通天蟒\源.cpp(1140,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+  贪吃蛇.vcxproj -> C:\Users\lenovo\Desktop\七彩通天蟒\x64\Debug\贪吃蛇.exe
